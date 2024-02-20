@@ -1,0 +1,3 @@
+Possible apis to use 
+https://open-meteo.com/en/docs/#latitude=40.7312&longitude=-74.2735
+https://openweathermap.org/api/one-call-3
