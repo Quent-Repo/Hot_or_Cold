@@ -10,7 +10,7 @@ Temp=Info.json()["hourly"]["temperature_2m"][0]
 
 @app.route("/")
 def home():
-	return render_template('index.html',Time=Time,Temp=Temp)
+	return render_template('index.html',Date=Time[:10],Time=Time[11:],Temp=Temp)
 
 if __name__ == "__main__":
 	app.run(debug=True)

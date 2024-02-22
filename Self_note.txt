@@ -2,7 +2,14 @@ Possible apis to use
 https://open-meteo.com/en/docs/#latitude=40.7312&longitude=-74.2735
 https://openweathermap.org/api/one-call-3
 
+flask docs
+https://flask.palletsprojects.com/en/3.0.x/quickstart/
 
+boot docs
+https://getbootstrap.com/docs/5.3/customize/color/#colors
+
+color palet
+https://www.color-hex.com/color-palette/1294
 
 City weather
 https://open-meteo.com/en/docs/gfs-api#latitude=40.7312&longitude=-74.2735&temperature_unit=fahrenheit&wind_speed_unit=mph
