@@ -3,7 +3,10 @@ https://open-meteo.com/en/docs/#latitude=40.7312&longitude=-74.2735
 https://openweathermap.org/api/one-call-3
 
 
+
 City weather
+https://open-meteo.com/en/docs/gfs-api#latitude=40.7312&longitude=-74.2735&temperature_unit=fahrenheit&wind_speed_unit=mph
+
 https://api.open-meteo.com/v1/gfs?latitude=40.7312&longitude=-74.2735&hourly=temperature_2m&temperature_unit=fahrenheit&wind_speed_unit=mph
 
 For json its going to be ```hourly["time"][0]``` this wil give the date and time/ ```hourly["temperature_2m"][0]``` this is the weather
